@@ -16,22 +16,20 @@ public class SelectionSort {
             arr[i] = temp;
         }
     }
-
-    public static void printArray(int[] arr) {
+    public static void main(String[] args) {
+        int[] arr = {64, 25, 12, 22, 45, 88, 11};
+        System.out.println("array:");
         for (int value : arr) {
             System.out.print(value + " ");
         }
         System.out.println();
-    }
-
-    public static void main(String[] args) {
-        int[] arr = {64, 25, 12, 22, 45, 88, 11};
-        System.out.println("array:");
-        printArray(arr);
 
         selectionSort(arr);
 
         System.out.println("Sortarray:");
-        printArray(arr);
+        for (int value : arr) {
+            System.out.print(value + " ");
+        }
+        System.out.println();
     }
 }
