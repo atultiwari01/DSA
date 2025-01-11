@@ -1,7 +1,29 @@
 ﻿# LeetCode 500+ Problems Study Plan
 ## Table of Contents
-1. [Arrays and Strings (120 problems)](#arrays-and-strings)
-1. [Linked Lists (50 problems)](#linked-lists)
+- [LeetCode 500+ Problems Study Plan](#leetcode-500-problems-study-plan)
+  - [Table of Contents](#table-of-contents)
+  - [Arrays and Strings](#arrays-and-strings)
+    - [Two Pointers (30)](#two-pointers-30)
+    - [Sliding Window (25)](#sliding-window-25)
+    - [Matrix/2D Arrays (35)](#matrix2d-arrays-35)
+    - [Array Transformations (30)](#array-transformations-30)
+  - [Linked Lists](#linked-lists)
+    - [Basic Operations (25)](#basic-operations-25)
+    - [Advanced Operations (25)](#advanced-operations-25)
+  - [Trees and Graphs](#trees-and-graphs)
+    - [Binary Trees Basic (25)](#binary-trees-basic-25)
+    - [Binary Search Trees (25)](#binary-search-trees-25)
+    - [Graph Theory (50)](#graph-theory-50)
+  - [Dynamic Programming](#dynamic-programming)
+    - [Basic Dynamic Programming (40)](#basic-dynamic-programming-40)
+  - [Dynamic Programming](#dynamic-programming-1)
+    - [Advanced Dynamic Programming (40)](#advanced-dynamic-programming-40)
+  - [Backtracking (40)](#backtracking-40)
+  - [Stack and Queue (40)](#stack-and-queue-40)
+  - [Heap/Priority Queue (30)](#heappriority-queue-30)
+  - [Binary Search (30)](#binary-search-30)
+  - [Bit Manipulation (30)](#bit-manipulation-30)
+  - [Advanced Data Structures (30)](#advanced-data-structures-30)
 ## Arrays and Strings
 ### Two Pointers (30)
 
@@ -358,16 +380,7 @@
 |416|Partition Equal Subset Sum|
 |494|Target Sum|
 
-[Character limit reached. Would you like me to continue with:
-
-- Advanced Dynamic Programming (40 problems)
-- Backtracking (40 problems)
-- Stack and Queue (40 problems)
-- Heap/Priority Queue (30 problems)
-- Binary Search (30 problems)
-- Bit Manipulation (30 problems)
-- Advanced Data Structures (30 problems)]
-## Dynamic Programming (continued)
+## Dynamic Programming
 ### Advanced Dynamic Programming (40)
 
 |Number|Problem|
